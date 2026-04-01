@@ -51,7 +51,7 @@ function MenuPage({ allTasks, onSelectRange }) {
     <div className="menu-container">
       <BackButton />
 
-      <h1 className="menu-title">Бокс</h1>
+      <h1 className="menu-title">Спорт</h1>
 
       <ProgressBar correct={totalCorrect} total={allTasks.length} />
 
